@@ -65,20 +65,23 @@ template <typename T>
 }
  
  template<class T>
- void Stack<T>:: merge(const Stack<T>& SecondStack)
- {
-     T* MergedArr = new T[size + SecondStack.size];
-     top = 0;
-     while (top < size)
+ void Stack<T>:: merge(const Stack<T> & SecondStack)
+ {  
+     T* MergedArr = new T[top + SecondStack.top];
+     int i = 0;
+
+     while (i < top)
      {
-         MergedArr[top] = StackArr[top];
-         top++;
+         MergedArr[i] = StackArr[i];
+         i++;
      }
-     while (top < size + SecondStack.size)
+
+     while (i < top + SecondStack.top)
      {
-         MergedArr[top] = SecondStack.StackArr[top-size];
-         top++;
+         MergedArr[i] = SecondStack.StackArr[i - top];
+         i++;
      }
+     top = top + SecondStack.top;
      StackArr = MergedArr;
  }
 
