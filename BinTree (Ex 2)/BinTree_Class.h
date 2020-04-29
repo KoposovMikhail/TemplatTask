@@ -151,6 +151,20 @@ public:
 
 		cout << endl;
 	}
+
+
+	void PrintTree2(int i)
+	{
+
+		if (NodeArr[i].leftchild != -1)
+			PrintTree2(NodeArr[i].leftchild);
+
+			cout << NodeArr[i].value << "\t";
+		if (NodeArr[i].rightchild != -1)
+
+		PrintTree2(NodeArr[i].rightchild);
+
+	}
 	void PrintLeaves()
 	{
 		for (int i = 0; i < NodeArr.size(); i++)
