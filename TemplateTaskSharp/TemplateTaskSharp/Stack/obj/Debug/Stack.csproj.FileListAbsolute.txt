@@ -1,0 +1,12 @@
+C:\Users\eight8\Desktop\TemplateTaskSharp\Stack\bin\Debug\Stack.exe.config
+C:\Users\eight8\Desktop\TemplateTaskSharp\Stack\bin\Debug\Stack.exe
+C:\Users\eight8\Desktop\TemplateTaskSharp\Stack\bin\Debug\Stack.pdb
+C:\Users\eight8\Desktop\TemplateTaskSharp\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\eight8\Desktop\TemplateTaskSharp\Stack\obj\Debug\Stack.exe
+C:\Users\eight8\Desktop\TemplateTaskSharp\Stack\obj\Debug\Stack.pdb
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\Stack\bin\Debug\Stack.exe.config
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\Stack\bin\Debug\Stack.exe
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\Stack\bin\Debug\Stack.pdb
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\Stack\obj\Debug\Stack.exe
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\Stack\obj\Debug\Stack.pdb

@@ -1,0 +1,12 @@
+C:\Users\eight8\Desktop\TemplateTaskSharp\BinThree\bin\Debug\BinThree.exe.config
+C:\Users\eight8\Desktop\TemplateTaskSharp\BinThree\bin\Debug\BinThree.exe
+C:\Users\eight8\Desktop\TemplateTaskSharp\BinThree\bin\Debug\BinThree.pdb
+C:\Users\eight8\Desktop\TemplateTaskSharp\BinThree\obj\Debug\BinTree.csprojAssemblyReference.cache
+C:\Users\eight8\Desktop\TemplateTaskSharp\BinThree\obj\Debug\BinThree.exe
+C:\Users\eight8\Desktop\TemplateTaskSharp\BinThree\obj\Debug\BinThree.pdb
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\BinThree\bin\Debug\BinThree.exe.config
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\BinThree\bin\Debug\BinThree.exe
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\BinThree\bin\Debug\BinThree.pdb
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\BinThree\obj\Debug\BinTree.csprojAssemblyReference.cache
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\BinThree\obj\Debug\BinThree.exe
+C:\Users\eight8\Desktop\RDY LABS\OOP Practice\TemplateTaskSharp\BinThree\obj\Debug\BinThree.pdb
